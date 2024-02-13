@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### **¡Hola! 👋**
 
-Soy Daniel García Rojas, un desarrollador apasionado por la creación, la investigación y el desarrollo.
+Soy Daniel García Rojas, un desarrollador apasionado por la en creación, la investigación y el desarrollo TI y en Inteligencia Artificial .
 
 **🔭 Actualmente trabajo en:**
 
