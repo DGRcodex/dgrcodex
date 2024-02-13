@@ -30,10 +30,12 @@ Here are some ideas to get you started:
 Soy DGRcodex, un desarrollador apasionado por crear experiencias web impactantes.
 
 **🔭 Actualmente trabajo en:**
-* sambalab.site 
+
+* sambalab.site 
 * sudalalengua.com
 
 **🌱 Aprendiendo en este momento:**
+
 * Python
 * Go
 * Vue
@@ -43,13 +45,15 @@ Soy DGRcodex, un desarrollador apasionado por crear experiencias web impactantes
 **👯 ¡Busco colaborar en proyectos nuevos!** ✨
 
 **💬 Pregúntame sobre:**
+
 * Desarrollo web
-* Tecnologías JavaScript 
+* Tecnologías JavaScript 
 * Creación de experiencias de usuario
 
-**📫 Contáctame:** d.g.r.developer@gmail.com 
+**📫 Contáctame:** d.g.r.developer@gmail.com 
 
 **Redes sociales:**
+
 [![Enlace a Linkedin](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg)](https://www.linkedin.com/in/dgrcodex)
 [![Enlace a Instagram](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg)](https://www.instagram.com/d.g.r.codex)
 
@@ -59,4 +63,4 @@ Soy DGRcodex, un desarrollador apasionado por crear experiencias web impactantes
 [![Mi imagen](https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/dgrcodexlogo9.webp)](https://dgrcodex.me)
 
 **😄 Pronombres:** él
-**⚡ Dato curioso:** ¡También soy músico, escritor y editor! 
+**⚡ Dato curioso:** ¡También soy músico, escritor y editor! 
