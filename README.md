@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### **¡Hola! 👋**
 
-Soy DGRcodex, un desarrollador apasionado por crear experiencias web impactantes.
+Soy Daniel García Rojas, un desarrollador apasionado por la creación, la investigación y el desarrollo.
 
 **🔭 Actualmente trabajo en:**
 
