@@ -54,9 +54,10 @@ Soy DGRcodex, un desarrollador apasionado por crear experiencias web impactantes
 
 **Redes sociales:**
 
-[![Enlace a Linkedin](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg){width=300px height=300px}](https://www.linkedin.com/in/dgrcodex)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="300" height="300">](https://www.linkedin.com/in/dgrcodex)
 
-[![Enlace a Instagram](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg){width=300px height=300px}](https://www.instagram.com/d.g.r.codex)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" width="300" height="300">](https://www.instagram.com/d.g.r.codex)
+
 
 ## **Enlaces**
 
