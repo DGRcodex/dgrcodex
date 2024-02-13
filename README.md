@@ -23,3 +23,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he
 - ⚡ Fun fact: I am also a musician, writer and editor.
 -->
+
+
+### **¡Hola! 👋**
+
+Soy DGRcodex, un desarrollador apasionado por crear experiencias web impactantes.
+
+**🔭 Actualmente trabajo en:**
+* sambalab.site 
+* sudalalengua.com
+
+**🌱 Aprendiendo en este momento:**
+* Python
+* Go
+* Vue
+* Angular
+* React Native
+
+**👯 ¡Busco colaborar en proyectos nuevos!** ✨
+
+**💬 Pregúntame sobre:**
+* Desarrollo web
+* Tecnologías JavaScript 
+* Creación de experiencias de usuario
+
+**📫 Contáctame:** d.g.r.developer@gmail.com 
+
+**Redes sociales:**
+[![Enlace a Linkedin](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg)](https://www.linkedin.com/in/dgrcodex)
+[![Enlace a Instagram](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg)](https://www.instagram.com/d.g.r.codex)
+
+## **Enlaces**
+
+* **¡Échale un vistazo a mi portafolio personal!** [dgrcodex.me](https://dgrcodex.me)
+[![Mi imagen](https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/dgrcodexlogo9.webp)](https://dgrcodex.me)
+
+**😄 Pronombres:** él
+**⚡ Dato curioso:** ¡También soy músico, escritor y editor! 
