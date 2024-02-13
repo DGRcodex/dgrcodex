@@ -62,7 +62,7 @@ Soy DGRcodex, un desarrollador apasionado por crear experiencias web impactantes
 
 * **¡Échale un vistazo a mi portafolio personal!** [dgrcodex.me](https://dgrcodex.me)
 
-[![Mi imagen](https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/dgrcodexlogo9.webp){width=300px height=300px}](https://dgrcodex.me)
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/dgrcodexlogo9.webp" width="300" heigth="300">](https://dgrcodex.me)
 
 
 **😄 Pronombres:** él
