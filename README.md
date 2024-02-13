@@ -54,13 +54,16 @@ Soy DGRcodex, un desarrollador apasionado por crear experiencias web impactantes
 
 **Redes sociales:**
 
-[![Enlace a Linkedin](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg)](https://www.linkedin.com/in/dgrcodex)
-[![Enlace a Instagram](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg)](https://www.instagram.com/d.g.r.codex)
+[![Enlace a Linkedin](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg){width=300px height=300px}](https://www.linkedin.com/in/dgrcodex)
+
+[![Enlace a Instagram](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg){width=300px height=300px}](https://www.instagram.com/d.g.r.codex)
 
 ## **Enlaces**
 
 * **¡Échale un vistazo a mi portafolio personal!** [dgrcodex.me](https://dgrcodex.me)
-[![Mi imagen](https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/dgrcodexlogo9.webp)](https://dgrcodex.me)
+
+[![Mi imagen](https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/dgrcodexlogo9.webp){width=300px height=300px}](https://dgrcodex.me)
+
 
 **😄 Pronombres:** él
 **⚡ Dato curioso:** ¡También soy músico, escritor y editor! 
