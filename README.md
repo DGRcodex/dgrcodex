@@ -54,9 +54,9 @@ Soy Daniel García Rojas, un desarrollador apasionado por la creación, la inves
 
 **Redes sociales:**
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="300" height="300">](https://www.linkedin.com/in/dgrcodex)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="300" height="300">](https://www.linkedin.com/in/dgrcodex) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" width="300" height="300">](https://www.instagram.com/d.g.r.codex)
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" width="300" height="300">](https://www.instagram.com/d.g.r.codex)
+
 
 
 ## **Enlaces**
