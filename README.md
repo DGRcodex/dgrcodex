@@ -39,7 +39,7 @@ Soy Daniel García Rojas, un desarrollador apasionado por la en creación, la in
 
 
 
-<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobecreativecloud.svg" width="50" height="50">
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobecreativecloud.svg" width="50" height="50">]
 [<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobefonts.svg" width="50" height="50">]
 [<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobephotoshop.svg" width="50" height="50">]
 [<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/amazonroute53.svg" width="50" height="50">]
