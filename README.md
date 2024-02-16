@@ -38,36 +38,35 @@ Soy Daniel García Rojas, un desarrollador apasionado por la en creación, la in
 
 
 
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/Node.tsx
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/UilReact.tsx
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobecreativecloud.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobefonts.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobephotoshop.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/amazonroute53.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/bootstrap.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/canva.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/dbeaver.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/docker.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/dotenv.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/express.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/git.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/go.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/googlecloud.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/javascript.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/jira.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/json.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/mantine.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/mysql.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/postgresql.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/postman.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/react.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/python.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/rubyonrails.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/scrum.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/tailwindcss.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/trello.svg
-https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/typescript.svg
-
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/Node.tsx" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/UilReact.tsx" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobecreativecloud.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobefonts.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobephotoshop.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/amazonroute53.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/bootstrap.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/canva.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/dbeaver.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/docker.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/dotenv.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/express.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/git.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/go.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/googlecloud.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/javascript.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/jira.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/json.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/mantine.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/mysql.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/postgresql.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/postman.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/react.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/python.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/rubyonrails.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/scrum.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/tailwindcss.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/trello.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/typescript.svg" width="50" height="50">]
 
 
 **🌱 Aprendiendo en este momento:**
