@@ -38,8 +38,8 @@ Soy Daniel García Rojas, un desarrollador apasionado por la en creación, la in
 
 
 
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/Node.tsx" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/UilReact.tsx" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/Node.tsx.svg" width="50" height="50">]
+[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/UilReact.tsx.scg" width="50" height="50">]
 [<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobecreativecloud.svg" width="50" height="50">]
 [<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobefonts.svg" width="50" height="50">]
 [<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobephotoshop.svg" width="50" height="50">]
