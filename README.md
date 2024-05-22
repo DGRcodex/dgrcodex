@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on sambalab.site and sudalalengua.com and impulsopixel.pro
+- 🔭 I’m currently working on sambalab.site sudalalengua.com and impulsopixel.pro
 - 🌱 I’m currently learning python, go, vue, angular, and react native.
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
