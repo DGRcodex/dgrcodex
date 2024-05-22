@@ -33,6 +33,7 @@ Soy Daniel García Rojas, un desarrollador apasionado por la en creación, la in
 
 * sambalab.site 
 * sudalalengua.com
+* impulsopixel.pro
 
 **🌱 Tecnologias que domino o casi... jojojo**
 
