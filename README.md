@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 Soy Daniel García Rojas, un desarrollador apasionado por la en creación, la investigación y el desarrollo TI y en Inteligencia Artificial .
 
-**🔭 Actualmente estoy desarrollando las páinas de:**
+**🔭 Actualmente estoy desarrollando las páginas de:**
 
 * sambalab.site 
 * sudalalengua.com
