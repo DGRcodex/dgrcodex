@@ -29,11 +29,23 @@ Here are some ideas to get you started:
 
 Soy Daniel García Rojas, un desarrollador apasionado por la en creación, la investigación y el desarrollo TI y en Inteligencia Artificial .
 
-**🔭 Actualmente trabajo en:**
+**🔭 Actualmente estoy desarrollando las páinas de:**
 
 * sambalab.site 
 * sudalalengua.com
 * impulsopixel.pro
+* dgrcodex.me
+* espaciocoloryestilo.pro
+* conexionestratégica.pro 
+
+
+**🔭 Soy cofundador de:
+
+Samabalab
+Impulso Pixel
+Suda la Lengua
+Sujeto Anonimo Masivo
+
 
 **🌱 Tecnologias que domino o casi... jojojo**
 
