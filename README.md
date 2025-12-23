@@ -1,117 +1,142 @@
-### Hi there 👋
+<p align="center">
+  <img src="./assets/logos/dgrcodex-logo.svg" width="96" alt="DGRCODEX logo" />
+</p>
 
-<!--
-**DGRcodex/dgrcodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Daniel García Rojas · DGRCODEX</h1>
+<h3 align="center">
+  Full Stack Developer · Frontend & Backend · Python · Cloud · AI
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="#-hola-soy-daniel-garcía-rojas">Español</a> |
+  <a href="#-hi-im-daniel-garcía-rojas">English</a>
+</p>
 
-- 🔭 I’m currently working on sambalab.site sudalalengua.com and impulsopixel.pro
-- 🌱 I’m currently learning python, go, vue, angular, and react native.
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: on my personal email: d.g.r.developer@gmai.com 
-[![Enlace a Linkedin](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg)](https://www.linkedin.com/in/dgrcodex)
-[![Enlace a Instagram](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg)](https://www.instagram.com/d.g.r.codex)
-## Enlaces
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-End--to--End-000000" />
+  <img src="https://img.shields.io/badge/Frontend-UX%20%7C%20UI%20%7C%20React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20GCP-FF9900" />
+  <img src="https://img.shields.io/badge/AI-LLMs%20%26%20Quality-8A2BE2" />
+</p>
 
-* [Mi portfolio personal](https://dgrcodex.me)
-![Mi imagen](https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/dgrcodexlogo9.webp)](https://dgrcodex.me)
+---
 
+## 👋 Hi, I’m Daniel García Rojas
 
+I am a **Full Stack Developer with a strong Frontend focus**, specialized in building **end-to-end digital products**, from **concept and visual identity** to **frontend, backend, and deployment**.
 
-- 😄 Pronouns: he
-- ⚡ Fun fact: I am also a musician, writer and editor.
--->
+My work usually starts at the **very beginning of a project**:  
+defining the **brand, logo, visual language, and UX/UI**, and continues through the **complete technical implementation**, including backend architecture, integrations, and cloud deployment.
 
+I specialize in **modern frontend frameworks (React, Next.js, Astro)** combined with **Python/Django backends**, **cloud-native architectures**, and **AI-assisted systems**.
 
-### **¡Hola! 👋**
+I currently work as a **Quality Manager & AI Trainer**, validating Python code, unit tests, and complex prompts for **Large Language Models (LLMs)** in production environments.
 
-Soy Daniel García Rojas, un desarrollador apasionado por la en creación, la investigación y el desarrollo TI y en Inteligencia Artificial .
+Alongside client work, I lead **independent cultural and editorial platforms** focused on **technology, philosophy, speculative fiction, and critical digital culture**.
 
-**🔭 Actualmente estoy desarrollando las páginas de:**
+---
 
-* sambalab.site 
-* sudalalengua.com
-* impulsopixel.pro
-* dgrcodex.me
-* espaciocoloryestilo.pro
-* conexionestratégica.pro 
+### 🔭 Current Focus
 
+- End-to-end product development (Brand → UX/UI → Code → Deploy)
+- Frontend architecture with React / Next.js
+- Python backend systems (Django, APIs)
+- Cloud architecture & DevOps
+- AI Quality Management & LLM Training
+- AI-assisted cultural and knowledge platforms
 
-**🔭 Soy cofundador de:
+---
 
-Samabalab
-Impulso Pixel
-Suda la Lengua
-Sujeto Anonimo Masivo
+### 🎨 Frontend & Product Design Approach
 
+- UX/UI design and visual systems
+- Brand identity & logo creation
+- Design systems and component libraries
+- Responsive, accessible interfaces
+- Close alignment between design and code
 
-**🌱 Tecnologias que domino o casi... jojojo**
+I work **comfortably across design and engineering**, ensuring coherence between **visual identity, user experience, and technical implementation**.
 
+---
 
+### 🧠 Core Stack
 
+<p align="left">
+  <img src="./assets/icons/react.svg" width="40" />
+  <img src="./assets/icons/javascript.svg" width="40" />
+  <img src="./assets/icons/typescript.svg" width="40" />
+  <img src="./assets/icons/node.svg" width="40" />
+  <img src="./assets/icons/python.svg" width="40" />
+  <img src="./assets/icons/django.svg" width="40" />
+  <img src="./assets/icons/docker.svg" width="40" />
+  <img src="./assets/icons/postgresql.svg" width="40" />
+  <img src="./assets/icons/mysql.svg" width="40" />
+  <img src="./assets/icons/azure.svg" width="40" />
+  <img src="./assets/icons/awsamplify.svg" width="40" />
+  <img src="./assets/icons/googlecloud.svg" width="40" />
+</p>
 
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobecreativecloud.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobefonts.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/adobephotoshop.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/amazonroute53.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/bootstrap.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/canva.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/dbeaver.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/docker.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/dotenv.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/express.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/git.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/go.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/googlecloud.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/javascript.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/jira.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/json.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/mantine.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/mysql.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/postgresql.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/postman.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/react.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/python.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/rubyonrails.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/scrum.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/tailwindcss.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/trello.svg" width="50" height="50">]
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/typescript.svg" width="50" height="50">]
+---
 
+## 🚀 Personal & Collective Projects
 
-**🌱 Aprendiendo en este momento:**
+- **Portfolio**  
+  https://dgrcodex.me  
 
-* Python
-* Go
-* Vue
-* Angular
-* React Native
+- **Código Ergosum** — Philosophy of Technology & Speculative Thought  
+  https://codigoergosum.xyz  
 
-**👯 ¡Busco colaborar en proyectos nuevos!** ✨
+- **Suda la Lengua** — Cultural Platform & Magazine  
+  https://sudalalengua.com  
 
-**💬 Pregúntame sobre:**
+- **La Taberna de Clates** — Philosophy, Fiction & Critical Essays  
+  https://latabernadeclates.art  
 
-* Desarrollo web
-* Tecnologías JavaScript 
-* Creación de experiencias de usuario
+- **Sambalab** — Creative & Technology Lab  
+  https://sambalab.pro  
 
-**📫 Contáctame:** d.g.r.developer@gmail.com 
+---
 
-**Redes sociales:**
+## 🧩 Client Projects (End-to-End Delivery)
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="300" height="300">](https://www.linkedin.com/in/dgrcodex) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" width="300" height="300">](https://www.instagram.com/d.g.r.codex)
+- **Ingemtrust** — Full Stack Development & IT Consulting  
+  Brand · UX/UI · Frontend · Backend · Cloud  
+  https://ingemtrust.com  
 
+- **Color y Estilo** — Full Stack Web Platform (Completed)  
+  Visual Identity · UX/UI · Frontend · Backend  
+  https://coloryestilo.pro  
 
+- **Agrícola BE** — Web & Systems Consulting  
+  Product Design · Frontend · Backend  
+  https://agricolabe.cl  
 
+- **Cautela Tu Causa** — Legal Platform (Completed)  
+  Brand · UX/UI · Frontend · Backend  
+  https://cautelatucausa.cl  
 
-## **Enlaces**
+---
 
-* **¡Échale un vistazo a mi portafolio personal!** [dgrcodex.me](https://dgrcodex.me)
+### 📫 Contact & Links
 
-[<img src="https://raw.githubusercontent.com/DGRcodex/dgrcodex/main/dgrcodexlogo9.webp" width="300" heigth="300">](https://dgrcodex.me)
+- 📧 Email: d.g.r.developer@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/dgrcodex  
+- 🧑‍💻 GitHub: https://github.com/DGRcodex  
 
+---
 
-**😄 Pronombres:** él
-**⚡ Dato curioso:** ¡También soy músico, escritor y editor! 
+## 👋 ¡Hola! Soy Daniel García Rojas
+
+Soy **Desarrollador Full Stack con fuerte foco en Frontend**, especializado en crear **productos digitales completos**, desde la **identidad visual y el diseño UX/UI** hasta el **desarrollo frontend, backend y despliegue**.
+
+Trabajo habitualmente **de principio a fin**, acompañando proyectos desde la idea inicial hasta su puesta en producción, cuidando tanto la **experiencia de usuario** como la **arquitectura técnica**.
+
+En paralelo, desarrollo **proyectos culturales y editoriales**, donde investigo la relación entre **tecnología, filosofía y cultura digital**.
+
+---
+
+### ⚡ Nota personal
+
+También soy **escritor, editor y músico**.  
+Trabajo en la intersección entre tecnología, diseño, cultura y pensamiento crítico.
