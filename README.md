@@ -3,8 +3,9 @@
 </p>
 
 <h1 align="center">Daniel García Rojas · DGRCODEX</h1>
+
 <h3 align="center">
-  Full Stack Developer · Frontend & Backend · Python · Cloud · AI
+  Frontend-driven Full Stack Developer · Backend · Cloud · AI
 </h3>
 
 <p align="center">
@@ -13,69 +14,69 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Angular%20%7C%20TypeScript-DD0031?logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20APIs%20%7C%20Systems-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Architecture-FF9900" />
+  <img src="https://img.shields.io/badge/AI-LLMs%20%7C%20Quality%20%26%20Evaluation-8A2BE2" />
   <img src="https://img.shields.io/badge/Full%20Stack-End--to--End-000000" />
-  <img src="https://img.shields.io/badge/Frontend-UX%20%7C%20UI%20%7C%20React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20GCP-FF9900" />
-  <img src="https://img.shields.io/badge/AI-LLMs%20%26%20Quality-8A2BE2" />
 </p>
 
 ---
 
 ## 👋 Hi, I’m Daniel García Rojas
 
-I am a **Full Stack Developer with a strong Frontend focus**, specialized in building **end-to-end digital products**, from **concept and visual identity** to **frontend, backend, and deployment**.
+I am a **Frontend-driven Full Stack Developer** working at the intersection of **product engineering, cloud systems, and applied AI**.
 
-My work usually starts at the **very beginning of a project**:  
-defining the **brand, logo, visual language, and UX/UI**, and continues through the **complete technical implementation**, including backend architecture, integrations, and cloud deployment.
+My core strength is **frontend development** — designing and implementing **robust, accessible, and scalable user interfaces** using **React, Angular, and TypeScript** — while maintaining a strong command of **backend systems, cloud architecture, and deployment workflows**.
 
-I specialize in **modern frontend frameworks (React, Next.js, Astro)** combined with **Python/Django backends**, **cloud-native architectures**, and **AI-assisted systems**.
+I usually work **end-to-end**: from **concept, identity, and UX/UI**, through **frontend and backend implementation**, to **cloud deployment and system operation**.
 
-I currently work as a **Quality Manager & AI Trainer**, validating Python code, unit tests, and complex prompts for **Large Language Models (LLMs)** in production environments.
-
-Alongside client work, I lead **independent cultural and editorial platforms** focused on **technology, philosophy, speculative fiction, and critical digital culture**.
+My work is deeply influenced by **Sambalab**, a creative and technological laboratory where I explore software not only as infrastructure, but also as **cultural and epistemic practice**.
 
 ---
 
-### 🔭 Current Focus
+## 🔭 Current Focus
 
-- End-to-end product development (Brand → UX/UI → Code → Deploy)
-- Frontend architecture with React / Next.js
-- Python backend systems (Django, APIs)
-- Cloud architecture & DevOps
-- AI Quality Management & LLM Training
-- AI-assisted cultural and knowledge platforms
-
----
-
-### 🎨 Frontend & Product Design Approach
-
-- UX/UI design and visual systems
-- Brand identity & logo creation
-- Design systems and component libraries
-- Responsive, accessible interfaces
-- Close alignment between design and code
-
-I work **comfortably across design and engineering**, ensuring coherence between **visual identity, user experience, and technical implementation**.
+- Frontend architecture & product interfaces
+- Backend systems with Python & APIs
+- Cloud-native architectures & deployment
+- AI quality, evaluation & LLM workflows
+- End-to-end product development
+- Research-driven digital platforms
 
 ---
 
-### 🧠 Core Stack
+## 🧠 Frontend, Backend & Architecture Approach
 
-<p align="left">
-  <img src="./assets/icons/react.svg" width="40" />
-  <img src="./assets/icons/javascript.svg" width="40" />
-  <img src="./assets/icons/typescript.svg" width="40" />
-  <img src="./assets/icons/node.svg" width="40" />
-  <img src="./assets/icons/python.svg" width="40" />
-  <img src="./assets/icons/django.svg" width="40" />
-  <img src="./assets/icons/docker.svg" width="40" />
-  <img src="./assets/icons/postgresql.svg" width="40" />
-  <img src="./assets/icons/mysql.svg" width="40" />
-  <img src="./assets/icons/azure.svg" width="40" />
-  <img src="./assets/icons/awsamplify.svg" width="40" />
-  <img src="./assets/icons/googlecloud.svg" width="40" />
-</p>
+**Frontend**
+- Component-driven and design-system-based architectures
+- Accessibility, performance, and long-term maintainability
+- Close alignment between UX, visual identity, and code
+
+**Backend**
+- Python-based services and APIs
+- Clear separation of concerns
+- Pragmatic, maintainable application logic
+
+**Cloud & Infrastructure**
+- Cloud-native deployment strategies
+- Environment and configuration management
+- Scalable yet simple architectures
+
+I aim to build **coherent systems**, where design, frontend, backend, and infrastructure reinforce each other.
+
+---
+
+## 🧪 Research & Experimental Lines (Sambalab)
+
+Alongside client and production work, I develop **experimental and research-driven projects**, focused on:
+
+- AI-assisted cultural and editorial platforms
+- Tools for writing, publishing, and knowledge organization
+- Interfaces for speculative and philosophical exploration
+- Software as cultural infrastructure
+
+These projects are exploratory by nature and evolve over time within **Sambalab**.
 
 ---
 
@@ -84,13 +85,13 @@ I work **comfortably across design and engineering**, ensuring coherence between
 - **Portfolio**  
   https://dgrcodex.me  
 
-- **Código Ergosum** — Philosophy of Technology & Speculative Thought  
+- **Código Ergosum** — Philosophy of Technology  
   https://codigoergosum.xyz  
 
 - **Suda la Lengua** — Cultural Platform & Magazine  
   https://sudalalengua.com  
 
-- **La Taberna de Clates** — Philosophy, Fiction & Critical Essays  
+- **La Taberna de Clates** — Philosophy, Fiction & Essays  
   https://latabernadeclates.art  
 
 - **Sambalab** — Creative & Technology Lab  
@@ -98,45 +99,42 @@ I work **comfortably across design and engineering**, ensuring coherence between
 
 ---
 
-## 🧩 Client Projects (End-to-End Delivery)
+## 🧩 Client Work (End-to-End Delivery)
 
-- **Ingemtrust** — Full Stack Development & IT Consulting  
+- **Ingemtrust**  
   Brand · UX/UI · Frontend · Backend · Cloud  
   https://ingemtrust.com  
 
-- **Color y Estilo** — Full Stack Web Platform (Completed)  
+- **Color y Estilo** *(Completed)*  
   Visual Identity · UX/UI · Frontend · Backend  
   https://coloryestilo.pro  
 
-- **Agrícola BE** — Web & Systems Consulting  
+- **Agrícola BE**  
   Product Design · Frontend · Backend  
   https://agricolabe.cl  
 
-- **Cautela Tu Causa** — Legal Platform (Completed)  
+- **Cautela Tu Causa** *(Completed)*  
   Brand · UX/UI · Frontend · Backend  
   https://cautelatucausa.cl  
 
 ---
 
-### 📫 Contact & Links
+## 📫 Contact
 
-- 📧 Email: d.g.r.developer@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/dgrcodex  
-- 🧑‍💻 GitHub: https://github.com/DGRcodex  
+- 📧 Email: **dgr@sambalab.pro**
+- 💼 LinkedIn: https://linkedin.com/in/dgrcodex
+- 🧑‍💻 GitHub: https://github.com/DGRcodex
 
 ---
 
 ## 👋 ¡Hola! Soy Daniel García Rojas
 
-Soy **Desarrollador Full Stack con fuerte foco en Frontend**, especializado en crear **productos digitales completos**, desde la **identidad visual y el diseño UX/UI** hasta el **desarrollo frontend, backend y despliegue**.
-
-Trabajo habitualmente **de principio a fin**, acompañando proyectos desde la idea inicial hasta su puesta en producción, cuidando tanto la **experiencia de usuario** como la **arquitectura técnica**.
-
-En paralelo, desarrollo **proyectos culturales y editoriales**, donde investigo la relación entre **tecnología, filosofía y cultura digital**.
+Soy **Desarrollador Full Stack con fuerte foco en Frontend**, con experiencia sólida en **backend, arquitectura cloud e IA**.  
+Trabajo en **productos digitales de principio a fin**, combinando **diseño, ingeniería y pensamiento crítico**.
 
 ---
 
 ### ⚡ Nota personal
 
 También soy **escritor, editor y músico**.  
-Trabajo en la intersección entre tecnología, diseño, cultura y pensamiento crítico.
+Mi trabajo explora la intersección entre **tecnología, cultura, diseño y filosofía**.
